@@ -1,1 +1,1 @@
-# seismic_amplification_-database
+# seismic_amplification_database
